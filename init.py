@@ -14,5 +14,5 @@ class Students:
         print(f"{self.name} got {self.cgpa} cgpa in {self.sem} semester")
 
 
-shahin = Students("meherullah shahin", 3.71, 10)
+shahin = Students("meherullah shahin", 3.71, 11)
 shahin.show_details()
